@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crazy Developer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt"Coding" width="400" scr="https://graph.org/file/3cc0c65b4981bae36b15b.jpg">
+<img align="right" alt="Coding" width="400" src="https://graph.org/file/3cc0c65b4981bae36b15b.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam31635&label=Profile%20views&color=0e75b6&style=flat" alt="shivam31635" /> </p>
 
